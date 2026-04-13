@@ -1,5 +1,6 @@
-flask
+python-telegram-bot
 aiohttp
-asyncio
-pyTelegramBotAPI
-protobuf
+requests
+pycryptodome
+blackboxprotobuf
+python-dotenv
